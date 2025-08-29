@@ -31,7 +31,7 @@ Physics simulations, REST API, JWT, Telegram Bot integration
 
 ## 💻 Projects
 
-### 🎮 **Game DLL Injection (C++ & DirectX9)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+### 🎮 **Game DLL Injection (C++)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 Structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
 👉[Github](https://github.com/mahdikarami8484/DoomDLL)
 
