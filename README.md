@@ -34,5 +34,5 @@
 ---
 
 ## 🔹 Contact
-- 📧 telegram: @mahdikarami8484 
-- 🌐 GitHub: [github.com/mahdikarami8484]
+- 📧 telegram: [@mahdikarami8484](t.me/mahdikarami8484) 
+- 🌐 GitHub: [@mahdikarami8484](github.com/mahdikarami8484)
