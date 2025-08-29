@@ -56,6 +56,12 @@ Backend development with modular JWT authentication.
 
 ---
 
+## 📊 GitHub Stats
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdikarami8484&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikarami8484&layout=compact&theme=dracula)
+
+---
+
 ## 📫 Contact
 - 📧 Telegram: [@mahdikarami8484](https://t.me/mahdikarami8484)  
 - 🌐 GitHub: [@mahdikarami8484](https://github.com/mahdikarami8484)
