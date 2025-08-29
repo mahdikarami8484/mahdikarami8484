@@ -17,7 +17,7 @@
   Developed a structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
   👉 [Github Link](https://github.com/mahdikarami8484/DoomDLL)
 
-### 📱 **Diginumber (Vue.js, Tailwind)**  
+### 📱 **Diginumber (Vue.js & Tailwind)**  
   A web application designed as a **Telegram Mini-App** for virtual SIM card number store frontend.  
   👉 [Github Link](https://github.com/mahdikarami8484/diginumber)
 
