@@ -1,7 +1,5 @@
 # Hi, i'm Mahdi 👋🤫
 
-![Profile views](https://komarev.com/ghpvc/?username=mahdikarami8484&color=green)
-
 👨‍💻 **Full-Stack Developer | C++ & PHP Backend | Vue.js Frontend | Physics Enthusiast**
 
 ---
@@ -38,3 +36,5 @@
 ## 🔹 Contact
 - 📧 telegram: [@mahdikarami8484](https://t.me/mahdikarami8484) 
 - 🌐 GitHub: [@mahdikarami8484](https://github.com/mahdikarami8484)
+
+![Profile views](https://komarev.com/ghpvc/?username=mahdikarami8484&color=green)
