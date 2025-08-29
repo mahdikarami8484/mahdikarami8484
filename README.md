@@ -83,7 +83,7 @@ This project is in the form of two client and server programs and the logic of i
 ---
 
 ## ⚡️ Interests
-- 🧪 **Physics & Fundamental Research** – Exploring theoretical and quantum physics  
+- 🧪 **Physics & Fundamental Research** – Exploring theoretical physics  
 - 🌌 **Astronomy & Stargazing** – Observing stars and experiencing the cosmos  
 - 💻 **Programming & Software Development** – C++, PHP, Vue.js, full-stack projects  
 - 🛠️ **Low-Level Projects** – Building game engines, physics engines, and simulators  
