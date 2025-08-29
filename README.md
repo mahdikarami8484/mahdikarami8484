@@ -1,4 +1,6 @@
-# Mahdi Karami
+# Hi, i'm Mahdi 👋🤫
+
+![Profile views](https://komarev.com/ghpvc/?username=mahdikarami8484&color=green)
 
 👨‍💻 **Full-Stack Developer | C++ & PHP Backend | Vue.js Frontend | Physics Enthusiast**
 
