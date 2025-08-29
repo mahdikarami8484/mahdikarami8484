@@ -1,16 +1,32 @@
-## Hi there 👋
+# Mahdi Karami
 
-<!--
-**mahdikarami8484/mahdikarami8484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Backend Developer | C++ & PHP Developer | Physics Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Skills
+- **Programming:** C++, PHP (MVC architecture), Python (basic simulations), REST API
+- **Web Development:** Backend with PHP, API design, JWT authentication, MySQL
+- **Other Interests:** Physics simulations, mathematical modeling
+
+---
+
+## 🔹 Projects
+- **Game DLL Injection (C++ & DirectX9)**  
+  Developed a structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
+  *[private repo]*
+
+- **REST API with C++ (Drogon Framework)**  
+  Built a modular authentication system with JWT support.
+
+---
+
+## 🔹 Education
+- **B.Sc. in Mechanical Engineering (in progress)** – Isfahan University of Technology  
+- Strong background in **Physics & Mathematics**
+
+---
+
+## 🔹 Contact
+- 📧 telegram: @mahdikarami8484 
+- 🌐 GitHub: [github.com/mahdikarami8484]
