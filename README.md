@@ -35,26 +35,39 @@ Physics simulations, REST API, JWT, Telegram Bot integration
 Structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
 👉[Github](https://github.com/mahdikarami8484/DoomDLL)
 
+## 
+
 ### 📱 **DigiNumber (Vue.js & Tailwind)** ![Frontend Only](https://img.shields.io/badge/Info-Frontend%20Only-blue)    
 Frontend of a **Telegram Mini-App** for virtual SIM card store.  
 👉[GitHub](https://github.com/mahdikarami8484/diginumber)
 🌐[Live View](https://mahdikarami8484.github.io/diginumber/front-end/build)
 
+## 
+
 ### 🛠️ **ModuWeb (C++ & Drogon Framework)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
 ModuWeb is a modular C++ backend project built using the Drogon framework. It demonstrates a Modular Monolith architecture with separate plugins for authentication, email notifications, and user management. This project is ideal for learning C++ web development, REST APIs, and plugin-based architecture in a structured and maintainable way.   
 👉[GitHub](https://github.com/mahdikarami8484/ModuWeb)
+
+## 
 
 ### 🕹️ **Snake Game (C++ & windows.h)** ![Completed](https://img.shields.io/badge/Status-Completed-green)
 A SnakeGame with cpp for windows.  
 👉 [Github](https://github.com/mahdikarami8484/SnakeGame)
 
+## 
+
 ### 🗃️ **Box Urls(PHP & Bootstrap)** ![Completed](https://img.shields.io/badge/Status-Completed-green)
 a website for save and protect your urls and links  
 👉[Github](https://github.com/mahdikarami8484/Box-Urls)
 
+## 
+
 ### 📖 **Learn Vue** ![Completed](https://img.shields.io/badge/Status-Completed-green)
 three projects for learning Vue.js  
-👉[Github](https://github.com/mahdikarami8484/learn-vue)
+👉[Github](https://github.com/mahdikarami8484/learn-vue)  
+🌐[Project 1](https://mahdikarami8484.github.io/learn-vue/project1) 
+🌐[Project 2](https://mahdikarami8484.github.io/learn-vue/project2) 
+🌐[Project 3](https://mahdikarami8484.github.io/learn-vue/project3) 
 
 ---
 
