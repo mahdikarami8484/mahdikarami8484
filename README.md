@@ -31,22 +31,31 @@ Physics simulations, REST API, JWT, Telegram Bot integration
 
 ## 💻 Projects
 
-### 🎮 **Game DLL Injection (C++ & DirectX9)**  
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+### 🎮 **Game DLL Injection (C++ & DirectX9)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)    
 Structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
+
 👉 [Github](https://github.com/mahdikarami8484/DoomDLL)
 
-### 📱 **DigiNumber (Vue.js & Tailwind)**  
-![Frontend Only](https://img.shields.io/badge/Status-Frontend%20Only-blue)  
+### 📱 **DigiNumber (Vue.js & Tailwind)** ![Frontend Only](https://img.shields.io/badge/Info-Frontend%20Only-blue)    
 Frontend of a **Telegram Mini-App** for virtual SIM card store.  
+
 👉 [GitHub](https://github.com/mahdikarami8484/diginumber)
 🌐 [Live View](https://mahdikarami8484.github.io/diginumber/front-end/build)
 
-### 🛠️ **REST API (C++ & Drogon Framework)** 
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
-Backend development with modular JWT authentication.  
+### 🛠️ **ModuWeb (C++ & Drogon Framework)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+ModuWeb is a modular C++ backend project built using the Drogon framework. It demonstrates a Modular Monolith architecture with separate plugins for authentication, email notifications, and user management. This project is ideal for learning C++ web development, REST APIs, and plugin-based architecture in a structured and maintainable way.   
+
 👉 [GitHub](https://github.com/mahdikarami8484/ModuWeb)
 
+### 🕹️ **Snake Game (C++ & windows.h)** 
+A SnakeGame with cpp for windows.
+
+👉 [Github](https://github.com/mahdikarami8484/SnakeGame)
+
+### 🗃️ **Box Urls(PHP & Bootstrap)**
+a website for save and protect your urls and links
+
+👉 [Github](https://github.com/mahdikarami8484/Box-Urls)
 ---
 
 ## 🎓 Education
@@ -56,7 +65,7 @@ Backend development with modular JWT authentication.
 ---
 
 ## 📊 GitHub Stats
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdikarami8484&show_icons=true&theme=dark)
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdikarami8484&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikarami8484&layout=compact&theme=dark)
 
 ---
