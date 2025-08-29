@@ -5,7 +5,7 @@
 ---
 
 ## 🔹 Skills
-- **Frontend:** JS, HTML5, CSS3, Vue.js, Tailwind
+- **Frontend:** HTML, CSS, JS, Vue.js, Tailwind
 - **Backend:** C++, Drogon, PHP, Laravel
 - **Databases:** MySQl
 - **Other Interests:** Physics simulations
