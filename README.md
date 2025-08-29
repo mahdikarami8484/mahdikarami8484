@@ -15,14 +15,15 @@
 ## 🔹 Projects
 - **Game DLL Injection (C++ & DirectX9)**  
   Developed a structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
-  👉 [GitHub Link](https://github.com/mahdikarami8484/DoomDLL)
-
-- **REST API with C++ (Drogon Framework)**  
-  Built a modular authentication system with JWT support.
+  👉 [Github Link](https://github.com/mahdikarami8484/DoomDLL)
 
 - **Diginumber (Vue.js, Tailwind)**  
-  A web application for [briefly explain what it does, e.g. "digital number display and manipulation"].  
-  👉 [GitHub Link](https://github.com/yourusername/diginumber)
+  A web application designed as a **Telegram Mini-App** for virtual SIM card number store frontend.  
+  👉 [Github Link](https://github.com/mahdikarami8484/diginumber)
+
+- **REST API with C++ (Drogon Framework) => in progress**  
+  Built a modular authentication system with JWT support.  
+  👉 [Github Link](https://github.com/mahdikarami8484/ModuWeb)
   
 ---
 
