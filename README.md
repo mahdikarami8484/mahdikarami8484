@@ -40,9 +40,10 @@ Frontend of a **Telegram Mini-App** for virtual SIM card store.
 👉 [GitHub](https://github.com/mahdikarami8484/diginumber)
 
 ### 🛠️ **REST API (C++ & Drogon Framework)** 
-- in progress 
-Backend development with modular JWT authentication.
-![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow) 
+
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
+
+Backend development with modular JWT authentication.  
 👉 [More](https://github.com/mahdikarami8484/ModuWeb)
 
 ---
