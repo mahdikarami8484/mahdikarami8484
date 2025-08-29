@@ -14,7 +14,7 @@
 ## 🔹 Projects
 - **Game DLL Injection (C++ & DirectX9)**  
   Developed a structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
-  (DoomDLL)[https://github.com/mahdikarami8484/DoomDLL]
+  [DoomDLL](https://github.com/mahdikarami8484/DoomDLL)
 
 - **REST API with C++ (Drogon Framework)**  
   Built a modular authentication system with JWT support.
