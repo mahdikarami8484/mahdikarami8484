@@ -7,7 +7,7 @@
 ## 🖥️ Skills
 - **Frontend:** HTML, CSS, JS, Vue.js, Tailwind
 - **Backend:** C++, Drogon, PHP, Laravel
-- **Databases:** MySQl
+- **Databases:** MySQL
 - **Other Interests:** Physics simulations
 
 ---
@@ -17,11 +17,11 @@
   Developed a structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
   👉 [Github Link](https://github.com/mahdikarami8484/DoomDLL)
 
-### 📱 **Diginumber (Vue.js & Tailwind)**  
+### 📱 **Diginumber (Vue.js & Tailwind)** => **Frontend only* 
   A web application designed as a **Telegram Mini-App** for virtual SIM card number store frontend.  
   👉 [Github Link](https://github.com/mahdikarami8484/diginumber)
 
-### 🛠️ **REST API with C++ (Drogon Framework) => in progress**  
+### 🛠️ **REST API with C++ (Drogon Framework)** => **in progress*  
   Built a modular authentication system with JWT support.  
   👉 [Github Link](https://github.com/mahdikarami8484/ModuWeb)
   
