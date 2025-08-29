@@ -82,6 +82,17 @@ This project is in the form of two client and server programs and the logic of i
 
 ---
 
+## ⚡️ Interests
+- 🧪 **Physics & Fundamental Research** – Exploring theoretical and quantum physics  
+- 🌌 **Astronomy & Stargazing** – Observing stars and experiencing the cosmos  
+- 💻 **Programming & Software Development** – C++, PHP, Vue.js, full-stack projects  
+- 🛠️ **Low-Level Projects** – Building game engines, physics engines, and simulators  
+- 🛡️ **Reverse Engineering** – Modding, DLL injection, analyzing and understanding software  
+- 📝 **Mathematics & Problem Solving** – Differential equations, integrals, and theoretical modeling  
+
+
+---
+
 ## 📊 GitHub Stats
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdikarami8484&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdikarami8484&layout=compact&theme=dark)
