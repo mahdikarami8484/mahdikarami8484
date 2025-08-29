@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+.icon {
+  width: 24px;
+  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.icon.github {
+  background-image: url('/icon/github.svg');
+}
+
+.icon.html{
+  background-image: url('/icon/html.svg');
+}
+
+.icon.css {
+  background-image: url('/icon/css.svg');
+}
+
+.icon.js {
+  background-image: url('/icon/js.svg');
+}
+
+.icon.vue {
+  background-image: url('/icon/vue-16.svg');
+}
+
+.icon.tailwindcss {
+  background-image: url('/icon/tailwindcss.svg');
+}
+
+.icon.cpp {
+  background-image: url('/icon/cpp2.svg');
+}
+
+.icon.php {
+  background-image: url('/icon/php-16.svg');
+}
+
+.icon.laravel {
+  background-image: url('/icon/laravel.svg');
+}
+
+.icon.drogon {
+  background-image: url('/icon/drogon.svg');
+}
