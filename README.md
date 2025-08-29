@@ -32,10 +32,12 @@ Physics simulations, REST API, JWT, Telegram Bot integration
 ## 💻 Projects
 
 ### 🎮 **Game DLL Injection (C++ & DirectX9)**  
+![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  
 Structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
 👉 [GitHub](https://github.com/mahdikarami8484/DoomDLL)
 
 ### 📱 **DigiNumber (Vue.js & Tailwind)**  
+![Frontend Only](https://img.shields.io/badge/Status-Frontend%20Only-blue)  
 Frontend of a **Telegram Mini-App** for virtual SIM card store.  
 👉 [GitHub](https://github.com/mahdikarami8484/diginumber)
 
