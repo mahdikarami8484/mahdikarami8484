@@ -30,7 +30,7 @@ jobs:
           mkdir gh-pages
           ls
           cp -r dist/. gh-pages/
-          echo "mahdikarami8484.ir" > CNAME
+          echo "mahdikarami8484.ir" > gh-pages/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
