@@ -28,7 +28,8 @@ jobs:
       - name: Collect builds
         run: |
           mkdir gh-pages
-          cp -r . gh-pages/
+          ls
+          cp -r / gh-pages/
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
