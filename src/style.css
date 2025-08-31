@@ -5,6 +5,7 @@
   height: 24px;
   background-size: contain;
   background-repeat: no-repeat;
+  
 }
 
 .icon.github {
@@ -45,4 +46,40 @@
 
 .icon.drogon {
   background-image: url('/icon/drogon.svg');
+}
+
+.icon.emc2 {
+  background-image: url('/icon/emc2.svg');
+}
+
+.icon.falling-apple {
+  background-image: url('/icon/falling-apple.svg');
+}
+
+.icon.space {
+  background-image: url('/icon/space.svg');
+}
+
+.icon.code {
+  background-image: url('/icon/code.svg');
+}
+
+.icon.coding {
+  background-image: url('/icon/coding.svg');
+}
+
+.icon.cpu {
+  background-image: url('/icon/cpu.svg');
+}
+
+.icon.crayon {
+  background-image: url('/icon/crayon.svg');
+}
+
+.icon.telegram {
+  background-image: url('/icon/telegram.svg');
+}
+
+.icon.gmail {
+  background-image: url('/icon/gmail.svg');
 }
