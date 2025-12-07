@@ -84,6 +84,18 @@
   background-image: url('/icon/gmail.svg');
 }
 
+.icon.achievement { 
+  background-image: url('/icon/achievement.svg');
+}
+
+.icon.solidwork { 
+  background-image: url('/icon/solidwork.svg');
+}
+
+.icon.comsol { 
+  background-image: url('/icon/comsol.svg');
+}
+
 @font-face {
   font-family: 'Vazir';
   src: url('/fonts/vazir-font-v16.1.0/Vazir.woff2') format('woff2'),
