@@ -75,6 +75,13 @@ const projects: Project[] = [
         sourceLink: "https://github.com/mahdikarami8484/learn-vue",
         liveLink: "https://mahdikarami8484.github.io/learn-vue/project3"
     },
+    {
+      title: "MachineLearning",
+      status: Status.Completed,
+      description: "",
+      faDescription: "MachineLearning یک ریپازیتوری آموزشی برای یادگیری مفاهیم پایه و میانی یادگیری ماشین است که با زبان Python و محیط Jupyter Notebook توسعه داده شده. این پروژه شامل چندین ماژول تمرینی مستقل است که هرکدام یک الگوریتم یا تکنیک مشخص را پوشش می‌دهند؛ از جمله پیش‌پردازش داده‌ها، رگرسیون، دسته‌بندی، خوشه‌بندی، کاهش ابعاد (PCA) و ارزیابی مدل‌ها.",
+      sourceLink: "https://github.com/mahdikarami8484/MachineLearning",
+    }
 ];
 
 
