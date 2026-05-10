@@ -34,6 +34,12 @@ Structured DLL injection system for *GTA: San Andreas* with hooked rendering fun
 
 ## 
 
+### 🌐 **SmartTranslate (C++ & Qt 6)** ![Completed](https://img.shields.io/badge/Status-Completed-green)
+A Windows desktop translation assistant that watches the clipboard and provides instant translations using a local **Ollama** AI backend (`translategemma`). It features a floating tooltip, asynchronous networking (WinHTTP), and a modular C++ architecture.  
+👉[GitHub](https://github.com/mahdikarami8484/SmartTranslate)
+
+## 
+
 ### 📱 **DigiNumber (Vue.js & Tailwind)** ![Frontend Only](https://img.shields.io/badge/Info-Frontend%20Only-blue)    
 Frontend of a **Telegram Mini-App** for virtual SIM card store.  
 👉[GitHub](https://github.com/mahdikarami8484/diginumber)
@@ -42,7 +48,7 @@ Frontend of a **Telegram Mini-App** for virtual SIM card store.
 ## 
 
 ### 🛠️ **ModuWeb (C++ & Drogon Framework)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
-ModuWeb is a modular C++ backend project built using the Drogon framework. It demonstrates a Modular Monolith architecture with separate plugins for authentication, email notifications, and user management. This project is ideal for learning C++ web development, REST APIs, and plugin-based architecture in a structured and maintainable way.   
+ModuWeb is a modular C++ backend project built using the Drogon framework. It demonstrates a Modular Monolith architecture with separate plugins for authentication, email notifications, and user management.  
 👉[GitHub](https://github.com/mahdikarami8484/ModuWeb)
 
 ## 
@@ -69,9 +75,7 @@ three projects for learning Vue.js
 ##
 
 ### 🎙️ **Voicechat App (C# & WindowsForm & TCP)** ![Completed](https://img.shields.io/badge/Status-Completed-green)  
-It is a simple VoiceChat appliction in C# and NET.
-I used Windows Form for the user interface because this program is only for learning sockets and a simple example of VoiceChat and may have problems and errors in real practice.
-This project is in the form of two client and server programs and the logic of its operation is very simple and non-practical.  
+Simple VoiceChat application using sockets and TCP in C#.
 👉[Github](https://github.com/mahdikarami8484/VoicechatApp)
 
 ---
