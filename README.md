@@ -28,9 +28,9 @@
 
 ## 💻 Projects
 
-### 🎮 **Game DLL Injection (C++)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
-Structured DLL injection system for *GTA: San Andreas* with hooked rendering functions.  
-👉[Github](https://github.com/mahdikarami8484/DoomDLL)
+### 🎮 **GTASA.SDK (C++)** ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)
+ A comprehensive C++ SDK for modifying and extending Grand Theft Auto: San Andreas through DLL injection and memory hooking techniques.  
+ 👉[Github](https://github.com/mahdikarami8484/GTASA.SDK)
 
 ## 
 
