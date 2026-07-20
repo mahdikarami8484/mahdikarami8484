@@ -36,10 +36,10 @@ const projects: Project[] = [
         liveLink: ""
     },
     {
-        title: "Voicechat App (C# & WindowsForm & TCP)",
+        title: "Voicechat App (C# / TCP Sockets)",
         status: Status.Completed,
-        description: "A simple Voice Chat application built with C# and .NET. The user interface is implemented using Windows Forms, since this project is intended purely for learning purposes. It demonstrates the basics of working with sockets through a simple voice chat example and may contain issues or limitations in real-world usage. The project consists of two separate programs: a client and a server. Its implementation is straightforward and designed for educational purposes rather than practical deployment.",
-        faDescription: "یک برنامه ساده چت صوتی با استفاده از C# و .NET ساخته شده است. رابط کاربری آن با Windows Forms پیاده‌سازی شده، زیرا این پروژه صرفاً برای اهداف آموزشی طراحی شده است. این برنامه مبانی کار با سوکت‌ها را از طریق یک مثال ساده چت صوتی نشان می‌دهد و ممکن است در استفاده واقعی مشکلات یا محدودیت‌هایی داشته باشد. این پروژه شامل دو بخش مجزا است: یک کلاینت و یک سرور. پیاده‌سازی آن بسیار ساده است و بیشتر برای یادگیری و آموزش در نظر گرفته شده تا استفاده عملی.",
+        description: "A C# .NET based Voice Chat system utilizing TCP sockets for client-server communication and real-time audio streaming.",
+        faDescription: "سیستم چت صوتی مبتنی بر C# و .NET با استفاده از سوکت‌های TCP برای ارتباط کلاینت-سرور و انتقال بلادرنگ (Real-time) صدا.",
         sourceLink: "https://github.com/mahdikarami8484/VoicechatApp",
         liveLink: ""
     },
