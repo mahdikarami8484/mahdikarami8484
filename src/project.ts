@@ -19,12 +19,20 @@ type Project = {
 
 
 const projects: Project[] = [
+    // {
+    //     title: "ModuWeb (C++ & Drogon Framework)",
+    //     status: Status.Ongoing,
+    //     description: "ModuWeb is a modular C++ backend project built using the Drogon framework. It demonstrates a Modular Monolith architecture with separate plugins for authentication, email notifications, and user management. This project is ideal for learning C++ web development, REST APIs, and plugin-based architecture in a structured and maintainable way.",
+    //     faDescription: "ModuWeb یک پروژه بک‌اند ماژولار با زبان ++C است که با استفاده از فریم‌ورک Drogon توسعه داده شده. این پروژه معماری Monolith ماژولار را پیاده‌سازی می‌کند و شامل پلاگین‌های جداگانه برای احراز هویت، اعلان‌های ایمیلی و مدیریت کاربران است. هدف آن یادگیری توسعه وب با ++C، کار با REST API‌ ها و معماری مبتنی بر پلاگین در قالبی ساخت‌یافته و قابل نگهداری می‌باشد.",
+    //     sourceLink: "https://github.com/mahdikarami8484/ModuWeb",
+    //     liveLink: ""
+    // },
     {
-        title: "ModuWeb (C++ & Drogon Framework)",
+        title: "GTA SA SDK (C++)",
         status: Status.Ongoing,
-        description: "ModuWeb is a modular C++ backend project built using the Drogon framework. It demonstrates a Modular Monolith architecture with separate plugins for authentication, email notifications, and user management. This project is ideal for learning C++ web development, REST APIs, and plugin-based architecture in a structured and maintainable way.",
-        faDescription: "ModuWeb یک پروژه بک‌اند ماژولار با زبان ++C است که با استفاده از فریم‌ورک Drogon توسعه داده شده. این پروژه معماری Monolith ماژولار را پیاده‌سازی می‌کند و شامل پلاگین‌های جداگانه برای احراز هویت، اعلان‌های ایمیلی و مدیریت کاربران است. هدف آن یادگیری توسعه وب با ++C، کار با REST API‌ ها و معماری مبتنی بر پلاگین در قالبی ساخت‌یافته و قابل نگهداری می‌باشد.",
-        sourceLink: "https://github.com/mahdikarami8484/ModuWeb",
+        description: "GTASA.SDK is an in-development C++20 SDK for Grand Theft Auto: San Andreas. The goal is to grow it into a complete, developer-friendly SDK for exploring, extending, and interacting with GTA:SA internals from native C++ code.",
+        faDescription: "GTASA.SDK یک SDK در حال توسعه با استاندارد C++20 برای بازی Grand Theft Auto: San Andreas است که با هدف تبدیل شدن به یک ابزار کامل و توسعه‌پسند برای بررسی، توسعه و تعامل با بخش‌های داخلی بازی از طریق کد بومی C++ طراحی شده است.",
+        sourceLink: "https://github.com/mahdikarami8484/GTASA.SDK",
         liveLink: ""
     },
     {
