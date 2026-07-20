@@ -52,6 +52,14 @@ const projects: Project[] = [
         liveLink: ""
     },
     {
+        title: "SmartTranslate (C++/Qt)",
+        status: Status.Completed, 
+        description: "AI-powered desktop translation tool using C++17, Qt 6, and local LLMs (Ollama) with clipboard monitoring and floating UI.",
+        faDescription: "دستیار ترجمه هوشمند بر پایه هوش مصنوعی محلی (Ollama) توسعه یافته با C++17 و Qt 6، دارای قابلیت پایش کلیپ‌بورد و رابط کاربری شناور.",
+        sourceLink: "https://github.com/mahdikarami8484/SmartTranslate",
+        liveLink: ""
+    },
+    {
         title: "DigiNumber (Vue.js & Tailwind)",
         status: Status.Completed,
         description: "Frontend of a Telegram Mini-App for virtual SIM card store.",
